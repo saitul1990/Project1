@@ -1,0 +1,12 @@
+User Stories
+
+1. As a dealer, I should deal each player with 7 cards.
+2. As a dealer, I should facedown the remainder of the deck as a DRAW pile.
+3. As a player, I should yell UNO when I'm left with one card to avoid penality.
+4. As a player, I should get rid of all the cards first to win the game.
+5. As a player, I should either match a number, color or Action card.
+6. As a player, I should draw 2 cards if the last card played in a round is a Draw Two card.
+7. As a player, I should draw 4 cards if the last card played in a round is a Wild Draw Four card.
+8. As a player, I should skip the turn if the previous card is a Skip card.
+9. As a player, I should play again if the player who plays after my turn plays a Reverse card.
+10. As a player, I should collect all the cards from other players if I play Wild Shuffle Hands card, shuffle and start distributing the cards with the player to my left.
